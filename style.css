@@ -77,7 +77,7 @@ p{
 }
 
 .footer {
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
     height: 200px;
@@ -86,6 +86,7 @@ p{
 
 .footer p {
     text-align: center;
+    padding-top: 25px;
 }
 
 /*Container structure*/
